@@ -1,0 +1,1219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Basic v5.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-06-16 15:31:37+0000\n"
+"Last-Translator: marketplace <aristath@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:7
+#@ basic
+msgid "File Not Found"
+msgstr "Αρχείο δε βρέθηκε"
+
+#: 404.php:11
+#@ basic
+msgid "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+msgstr "Η σελίδα που ζητήσατε δεν ήταν δυνατόν να βρεθεί."
+
+#: 404.php:13
+#@ basic
+msgid "Please try the following:"
+msgstr "Παρακαλώ προσπαθήστε τα παρακάτω:"
+
+#: 404.php:15
+#@ basic
+msgid "Check your spelling"
+msgstr "Ελέγξτε την ορθογραφία σας"
+
+#: 404.php:16
+#, php-format
+#@ basic
+msgid "Return to the <a href=\"%s\">home page</a>"
+msgstr "Επιστροφή στην <a href=\\\"%s\\\">Αρχική σελίδα</a>"
+
+#: 404.php:17
+#@ basic
+msgid "Click the <a href=\"javascript:history.back()\">Back</a> button"
+msgstr "Πατήστε το κουμπί <a href=\"javascript:history.back()\">Πίσω</a>."
+
+#: archive.php:15
+#, php-format
+#@ basic
+msgid "Daily Archives: %s"
+msgstr "Αρχεία ημέρας: %s"
+
+#: archive.php:17
+#, php-format
+#@ basic
+msgid "Monthly Archives: %s"
+msgstr "Αρχεία μήνα: %s"
+
+#: archive.php:19
+#, php-format
+#@ basic
+msgid "Yearly Archives: %s"
+msgstr "Αρχεία έτους: %s"
+
+#: archive.php:23
+#, php-format
+#@ basic
+msgid "Author Archives: %s"
+msgstr "Αρχεία συγγραφέα: %s"
+
+#: comments.php:7
+#, php-format
+#@ basic
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: comments.php:8
+#, php-format
+#@ basic
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:9
+#@ basic
+msgid "(Edit)"
+msgstr "(Επεξεργασία)"
+
+#: comments.php:15
+#@ basic
+msgid "Your comment is awaiting moderation."
+msgstr "Το σχόλιό σας αναμένει για έγκριση."
+
+#: comments.php:32
+#@ basic
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Η καταχώρηση είναι προστατευμένη με κωδικό. Παρακαλώ πληκτρολογήστε τον για να δείτε τα σχόλια."
+
+#: comments.php:41
+#, php-format
+#@ basic
+msgid "One Response to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Responses to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:49
+#@ basic
+msgid "&larr; Older comments"
+msgstr "&larr; Παλαιότερα σχόλια"
+
+#: comments.php:50
+#@ basic
+msgid "Newer comments &rarr;"
+msgstr "Νεότερα σχόλια &rarr;"
+
+#: comments.php:58
+#: comments.php:68
+#@ basic
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι κλειστά."
+
+#: comments.php:75
+#@ basic
+msgid "Leave a Reply"
+msgstr "Αφήστε το σχόλιό σας"
+
+#: comments.php:75
+#, php-format
+#@ basic
+msgid "Leave a Reply to %s"
+msgstr "Αφήστε ένα σχόλιο στο %s"
+
+#: comments.php:78
+#, php-format
+#@ basic
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Πρέπει να You must be <a href=\\\"%s\\\">γραφτείτε</a> για να σχολιάσετε."
+
+#: comments.php:82
+#, php-format
+#@ basic
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr "Έχετε συνδεθεί ως %s"
+
+#: comments.php:82
+#@ basic
+msgid "Log out of this account"
+msgstr "Έξοδος από λογαριασμό."
+
+#: comments.php:82
+#@ basic
+msgid "Log out &raquo;"
+msgstr "Έξοδος &raquo;"
+
+#: comments.php:84
+#@ basic
+msgid "Name"
+msgstr "Όνομα"
+
+#: comments.php:84
+#: comments.php:86
+#@ basic
+msgid " (required)"
+msgstr " (απαραίτητο)"
+
+#: comments.php:86
+#@ basic
+msgid "Email (will not be published)"
+msgstr "Email (Δεν θα δημοσιοποιηθεί)"
+
+#: comments.php:88
+#@ basic
+msgid "Website"
+msgstr "Ιστοσελίδα"
+
+#: comments.php:91
+#@ basic
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: comments.php:93
+#@ basic
+msgid "Submit Comment"
+msgstr "Υποβολή σχολίου"
+
+#: functions.php:27
+#@ basic
+msgid "Primary Navigation"
+msgstr "Κυρίως μενού"
+
+#: header.php:26
+#@ default
+msgid "Please Wait..."
+msgstr "Παρακαλώ Περιμένετε..."
+
+#: header.php:67
+#@ basic
+msgid "Order Management"
+msgstr "Διαχείρηση παραγγελιών"
+
+#: header.php:80
+#: header.php:84
+#@ basic
+msgid "Congratulations, you have"
+msgstr "Συγχαρητήρια, έχετε"
+
+#: header.php:80
+#@ basic
+msgid "new order"
+msgstr "νέα παραγγελία"
+
+#: header.php:84
+#@ basic
+msgid "new orders"
+msgstr "νέες παραγγελίες"
+
+#: header.php:88
+#@ basic
+msgid "order has not been sent yet"
+msgstr "παραγγελία δεν έχει αποσταλεί ακόμη"
+
+#: header.php:92
+#@ basic
+msgid "orders have not been sent yet"
+msgstr "παραγγελίες δεν έχουν αποσταλεί ακόμη"
+
+#: header.php:97
+#@ basic
+msgid "Unresolved orders:"
+msgstr "Εκρεμμότητες παραγγελιών:"
+
+#: inc/cleanup.php:408
+#@ basic
+msgid "Continued"
+msgstr ""
+
+#: inc/custom.php:12
+#@ basic
+msgid "Front1"
+msgstr ""
+
+#: inc/custom.php:20
+#@ basic
+msgid "Front2"
+msgstr ""
+
+#: inc/custom.php:28
+#@ basic
+msgid "Front3"
+msgstr ""
+
+#: inc/custom.php:36
+#@ basic
+msgid "header-cart"
+msgstr ""
+
+#: inc/custom.php:44
+#@ basic
+msgid "front-slider"
+msgstr ""
+
+#: inc/custom.php:60
+#@ basic
+msgid "Upgrade your store"
+msgstr "Αναβαθμίστε το κατάστημά σας"
+
+#: inc/custom.php:90
+#: inc/custom.php:1174
+#: inc/custom.php:1916
+#@ basic
+#@ mp
+msgid "No Products"
+msgstr "Δε βρέθηκαν Προϊόντα"
+
+#: inc/custom.php:121
+#: inc/custom.php:218
+#: inc/custom.php:299
+#@ basic
+msgid "Item:"
+msgstr "Τεμάχιο:"
+
+#: inc/custom.php:122
+#: inc/custom.php:220
+#: inc/custom.php:301
+#@ basic
+msgid "Price:"
+msgstr "Τιμή:"
+
+#: inc/custom.php:123
+#: inc/custom.php:1625
+#@ basic
+msgid "Quantity:"
+msgstr "Ποσότητα:"
+
+#: inc/custom.php:141
+#@ basic
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: inc/custom.php:162
+#: inc/custom.php:259
+#: inc/custom.php:328
+#@ basic
+msgid "Subtotal:"
+msgstr "Σύνολο:"
+
+#: inc/custom.php:167
+#: inc/custom.php:263
+#@ basic
+msgid "Discount:"
+msgstr "Έκπτωση"
+
+#: inc/custom.php:169
+#@ basic
+msgid "Remove Coupon &raquo;"
+msgstr "Αφαίρεση κουπονιού &raquo;"
+
+#: inc/custom.php:175
+#@ basic
+msgid "Have a coupon code?"
+msgstr "Έχετε κάποιο κουπόνι;"
+
+#: inc/custom.php:177
+#@ basic
+msgid "Enter your code:"
+msgstr "Πληκτρολογήστε τον κωδικό σας:"
+
+#: inc/custom.php:179
+#@ basic
+msgid "Update"
+msgstr "Ανανέωση"
+
+#: inc/custom.php:190
+#: inc/custom.php:274
+#: inc/custom.php:872
+#@ basic
+msgid "Shipping:"
+msgstr "Αποστολή:"
+
+#: inc/custom.php:200
+#: inc/custom.php:283
+#: inc/custom.php:877
+#@ basic
+msgid "Taxes:"
+msgstr "Φόροι:"
+
+#: inc/custom.php:208
+#: inc/custom.php:290
+#@ basic
+msgid "Cart Total:"
+msgstr "Σύνολο καλαθιού:"
+
+#: inc/custom.php:210
+#@ basic
+msgid "Update Cart"
+msgstr "Ενημέρωση καλαθιού"
+
+#: inc/custom.php:219
+#: inc/custom.php:300
+#@ basic
+msgid "Qty:"
+msgstr "Ποσότητα:"
+
+#: inc/custom.php:351
+#: inc/custom.php:382
+#: inc/custom.php:503
+#: mp_cart.php:7
+#@ basic
+#@ framemarket
+msgid "Checkout"
+msgstr "Ολοκλήρωση αγοράς"
+
+#: inc/custom.php:356
+#@ basic
+msgid "Have a User Account?"
+msgstr "Έχετε λογαριασμό χρήστη;"
+
+#: inc/custom.php:359
+#@ basic
+msgid "Register To Checkout"
+msgstr "Γραφτείτε για ολοκλήρωση της παραγγελίας"
+
+#: inc/custom.php:361
+#@ basic
+msgid "Checkout Directly"
+msgstr "Απευθείας ολοκλήρωση παραγγελίας"
+
+#: inc/custom.php:367
+#: inc/custom.php:1017
+#@ basic
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: inc/custom.php:370
+#: inc/custom.php:1020
+#@ basic
+msgid "Password"
+msgstr "Κωδικός"
+
+#: inc/custom.php:373
+#@ basic
+msgid "Login and Checkout &raquo;"
+msgstr "Είσοδος και ολοκλήρωση παραγγελίας &raquo;"
+
+#: inc/custom.php:377
+#: inc/custom.php:1027
+#@ basic
+msgid "or"
+msgstr "ή"
+
+#: inc/custom.php:380
+#@ basic
+msgid "Sign in to checkout"
+msgstr "Είσοδος για ολοκλήρωση παραγγελίας"
+
+#: inc/custom.php:418
+#@ basic
+msgid "Have you purchased anything here before?"
+msgstr "Έχετε ξανακάνει κάποια αγορά;"
+
+#: inc/custom.php:418
+#@ basic
+msgid "Sign in to retrieve your information"
+msgstr "Σύνδεση για να ανακτήσετε τις πληροφορίες σας"
+
+#: inc/custom.php:429
+#@ basic
+msgid "Enter your address"
+msgstr "Πληκτρολογήστε τη διεύθυνσή σας"
+
+#: inc/custom.php:429
+#@ basic
+msgid "Enter your shipping address"
+msgstr "Πληκτρολογήστε τη διεύθυνση αποστολής"
+
+#: inc/custom.php:433
+#: inc/custom.php:516
+#: inc/widgets.php:148
+#@ basic
+msgid "Email:"
+msgstr "Email:"
+
+#: inc/custom.php:440
+#: inc/custom.php:520
+#: inc/custom.php:887
+#@ basic
+msgid "Full Name:"
+msgstr "Ονοματεπώνυμο:"
+
+#: inc/custom.php:445
+#: inc/custom.php:553
+#: inc/custom.php:921
+#@ basic
+msgid "Country:"
+msgstr "Χώρα:"
+
+#: inc/custom.php:455
+#: inc/custom.php:524
+#: inc/custom.php:892
+#@ basic
+msgid "Address:"
+msgstr "Διεύθυνση:"
+
+#: inc/custom.php:458
+#@ default
+msgid "Street address, P.O. box, company name, c/o"
+msgstr "Διεύθυνση, Όνομα κλπ"
+
+#: inc/custom.php:462
+#: inc/custom.php:530
+#: inc/custom.php:898
+#@ basic
+msgid "Address 2:"
+msgstr "Διεύθυνση 2:"
+
+#: inc/custom.php:464
+#@ basic
+msgid "Apartment, suite, unit, building, floor, etc."
+msgstr "Όροφος, διαμέρισμα, κτίριο κλπ."
+
+#: inc/custom.php:468
+#: inc/custom.php:536
+#: inc/custom.php:904
+#@ basic
+msgid "City:"
+msgstr "Πόλη:"
+
+#: inc/custom.php:473
+#: inc/custom.php:542
+#: inc/custom.php:910
+#@ basic
+msgid "State/Province/Region:"
+msgstr "Περιοχή:"
+
+#: inc/custom.php:478
+#: inc/custom.php:548
+#: inc/custom.php:916
+#@ basic
+msgid "Postal/Zip Code:"
+msgstr "Τ.Κ.:"
+
+#: inc/custom.php:483
+#: inc/custom.php:559
+#: inc/custom.php:927
+#@ basic
+msgid "Phone Number:"
+msgstr "Τηλέφωνο:"
+
+#: inc/custom.php:490
+#@ basic
+msgid "Special Instructions:"
+msgstr "Ειδικές οδηγίες:"
+
+#: inc/custom.php:511
+#: inc/custom.php:884
+#@ basic
+msgid "Shipping Information:"
+msgstr "Πληροφορίες αποστολής:"
+
+#: inc/custom.php:512
+#@ basic
+msgid "Edit"
+msgstr "Επεγεργασία"
+
+#: inc/custom.php:592
+#@ basic
+msgid "Choose method of payment:"
+msgstr "Επιλέξτε μέθοδο πληρωμής:"
+
+#: inc/custom.php:618
+#, php-format
+#@ default
+msgid "Whoops, looks like you skipped a step! Please <a href=\"%s\">go back and try again</a>."
+msgstr "Ουπς! Απ' ότι φαίνεται προσπεράσατε ένα βήμα! Παρακαλώ <a href=\\\"%s\\\">πηγαίνετε πίσω και ξαναπροσπαθήστε</a>."
+
+#: inc/custom.php:626
+#@ basic
+msgid "Confirm Payment &raquo;"
+msgstr "Επιβεβαίωση πληρωμής &raquo;"
+
+#: inc/custom.php:643
+#, php-format
+#@ basic
+msgid "You may track the latest status of your order(s) here:<br />%s"
+msgstr "Μπορείτε να παρακολουθείτε την πορεία των παραγγελιών σας εδώ:<br />%s"
+
+#: inc/custom.php:683
+#: inc/custom.php:726
+#@ basic
+msgid "Empty your shopping cart"
+msgstr "Άδειασμα καλαθιού"
+
+#: inc/custom.php:683
+#: inc/custom.php:726
+#@ basic
+msgid "Empty Cart"
+msgstr "Άδειασμα καλαθιού"
+
+#: inc/custom.php:684
+#: inc/custom.php:727
+#@ basic
+msgid "Go To Checkout Page"
+msgstr "Ολοκλήρωση αγορών"
+
+#: inc/custom.php:684
+#: inc/custom.php:727
+#@ basic
+msgid "Checkout &raquo;"
+msgstr "Ολοκλήρωση αγορών &raquo;"
+
+#: inc/custom.php:731
+#@ basic
+msgid "There are no items in your cart."
+msgstr "Δεν έχετε προϊόντα στο καλάθι σας."
+
+#: inc/custom.php:732
+#@ basic
+msgid "Browse Products &raquo;"
+msgstr "Δείτε τα προϊόντα &raquo;"
+
+#: inc/custom.php:759
+#, php-format
+#@ basic
+msgid "Order Details (%s):"
+msgstr "Πληροφορίες παραγγελίας (%s):"
+
+#: inc/custom.php:761
+#@ basic
+msgid "Current Status"
+msgstr "Τρέχουσα κατάσταση"
+
+#: inc/custom.php:772
+#: inc/custom.php:775
+#: inc/custom.php:779
+#@ basic
+msgid "Received:"
+msgstr "Λήφθηκαν:"
+
+#: inc/custom.php:774
+#: inc/custom.php:778
+#@ basic
+msgid "Paid:"
+msgstr "Πληρωμένα:"
+
+#: inc/custom.php:777
+#@ basic
+msgid "Shipped:"
+msgstr "Απεσταλμένα:"
+
+#: inc/custom.php:787
+#@ basic
+msgid "Payment Information:"
+msgstr "Πληροφορίες πληρωμής:"
+
+#: inc/custom.php:790
+#@ basic
+msgid "Payment Method:"
+msgstr "Μέθοδος πληρωμής:"
+
+#: inc/custom.php:794
+#@ basic
+msgid "Payment Type:"
+msgstr "Τύπος πληρωμής:"
+
+#: inc/custom.php:798
+#@ basic
+msgid "Transaction ID:"
+msgstr "Αριθμός συναλλαγής:"
+
+#: inc/custom.php:802
+#@ basic
+msgid "Payment Total:"
+msgstr "Σύνολο πληρωμής:"
+
+#: inc/custom.php:808
+#@ basic
+msgid "Order Information:"
+msgstr "Πληροφορίες παραγγελίας:"
+
+#: inc/custom.php:812
+#@ basic
+msgid "Item"
+msgstr "Τεμάχιο"
+
+#: inc/custom.php:813
+#@ basic
+msgid "Quantity"
+msgstr "Ποσότητα"
+
+#: inc/custom.php:814
+#@ basic
+msgid "Price"
+msgstr "Τιμή"
+
+#: inc/custom.php:815
+#@ basic
+msgid "Subtotal"
+msgstr "Σύνολο"
+
+#: inc/custom.php:816
+#@ basic
+msgid "Download"
+msgstr "Κατέβασμα"
+
+#: inc/custom.php:845
+#@ basic
+msgid "Download&raquo;"
+msgstr "Κατέβασμα&raquo;"
+
+#: inc/custom.php:847
+#@ basic
+msgid "Limit Reached"
+msgstr "Φτάσατε το όριο"
+
+#: inc/custom.php:849
+#@ basic
+msgid "Awaiting Payment"
+msgstr "Αναμονή εξόφλησης"
+
+#: inc/custom.php:859
+#@ basic
+msgid "No products could be found for this order"
+msgstr "Δε βρέθηκαν προϊόντα για αυτή την παραγγελία"
+
+#: inc/custom.php:867
+#@ basic
+msgid "Coupon Discount:"
+msgstr "Έκπτωση κουπονιού:"
+
+#: inc/custom.php:880
+#@ basic
+msgid "Order Total:"
+msgstr "Σύνολο παραγγελίας:"
+
+#: inc/custom.php:934
+#@ basic
+msgid "Tracking Number:"
+msgstr "Αριθμός Tracking:"
+
+#: inc/custom.php:942
+#@ basic
+msgid "Order Notes:"
+msgstr "Σημειώσεις παραγγελίας:"
+
+#: inc/custom.php:948
+#@ basic
+msgid "&laquo; Back"
+msgstr "&laquo; Πίσω"
+
+#: inc/custom.php:952
+#@ basic
+msgid "Invalid Order ID. Please try again:"
+msgstr "Άκυρος αριθμός παραγγελίας. Παρακαλώ ξαναπροσπαθήστε:"
+
+#: inc/custom.php:955
+#: inc/custom.php:1030
+#: inc/custom.php:1042
+#@ basic
+msgid "Enter your 12-digit Order ID number:"
+msgstr "Πληκτρολογήστε τον 12-ψήφιο αριθμό παραγγελίας:"
+
+#: inc/custom.php:957
+#: inc/custom.php:1000
+#: inc/custom.php:1032
+#: inc/custom.php:1044
+#@ basic
+msgid "Look Up &raquo;"
+msgstr "Αναζήτηση &raquo;"
+
+#: inc/custom.php:990
+#@ basic
+msgid "Your Recent Orders:"
+msgstr "Οι πρόσφατες παραγγελίες σας:"
+
+#: inc/custom.php:998
+#@ basic
+msgid "Or enter your 12-digit Order ID number:"
+msgstr "Ή πληκτρολογήστε τον 12-ψήφιο αριθμό παραγγελίας σας:"
+
+#: inc/custom.php:1010
+#@ basic
+msgid "Have a User Account? Login To View Your Order History:"
+msgstr "Έχετε λογαριασμό; Συνδεθείτε για να δείτε το ιστορικό των παραγγελιών σας:"
+
+#: inc/custom.php:1023
+#@ basic
+msgid "Login &raquo;"
+msgstr "Είσοδος &raquo;"
+
+#: inc/custom.php:1161
+#@ basic
+msgid "More"
+msgstr "Περισσότερα"
+
+#: inc/custom.php:1301
+#@ basic
+msgid "More &raquo;"
+msgstr "Περισσότερα &raquo;"
+
+#: inc/custom.php:1380
+#@ mp
+msgid "Uncatagorized"
+msgstr "Χωρίς Κατηγορία"
+
+#: inc/custom.php:1397
+#@ mp
+msgid "No Tags"
+msgstr "Χωρίς ετικέτες"
+
+#: inc/custom.php:1576
+#@ basic
+msgid "Buy &raquo;"
+msgstr "Αγορά &raquo;"
+
+#: inc/custom.php:1587
+#@ basic
+msgid "Out of stock"
+msgstr "Εξαντλημένο"
+
+#: inc/custom.php:1612
+#@ basic
+msgid "Choose Option &raquo;"
+msgstr "Επιλέξτε &raquo;"
+
+#: inc/custom.php:1615
+#@ basic
+msgid "Add to Cart"
+msgstr "Προσθήκη στο καλάθι"
+
+#: inc/custom.php:1617
+#@ basic
+msgid "Buy Now"
+msgstr "Αγορά Τώρα"
+
+#: inc/custom.php:1630
+#@ basic
+msgid "Add To Cart &raquo;"
+msgstr "Προσθήκη στο καλάθι &raquo;"
+
+#: inc/custom.php:1632
+#@ basic
+msgid "Buy Now &raquo;"
+msgstr "Αγορά τώρα &raquo;"
+
+#: inc/custom.php:1700
+#@ basic
+msgid "View Larger Image &raquo;"
+msgstr "Προβολή μεγαλύτερης εικόνας &raquo;"
+
+#: inc/custom.php:1740
+#@ basic
+msgid "Check Order Status"
+msgstr "Έλεγχος κατάστασης παραγγελίας"
+
+#: inc/custom.php:1809
+#, php-format
+#@ mp
+msgid "%d Products"
+msgstr "%d Προϊόντα"
+
+#: inc/custom.php:1828
+#@ basic
+msgid "Shows a customizable list of products from your MarketPress store."
+msgstr "Δείχνει μια παραμετροποιήσιμη λίστα προϊόντων από το κατάστημά σας."
+
+#: inc/custom.php:1829
+#@ basic
+msgid "Basic Product List"
+msgstr "Βασική λίστα προϊόντων"
+
+#: inc/custom.php:1947
+#@ mp
+msgid "Our Products"
+msgstr "Τα Προϊόντα μας"
+
+#: inc/custom.php:1965
+#@ mp
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: inc/custom.php:1966
+#@ mp
+msgid "Custom Text:"
+msgstr "Εξατομικευμένο κείμενο:"
+
+#: inc/custom.php:1970
+#@ mp
+msgid "List Settings"
+msgstr "Ρυθμίσεις Λίστας"
+
+#: inc/custom.php:1972
+#@ mp
+msgid "Number of Products:"
+msgstr "Αριθμός Προϊόντων:"
+
+#: inc/custom.php:1975
+#@ mp
+msgid "Order Products By:"
+msgstr "Ταξινόμηση Προϊόντων ανά:"
+
+#: inc/custom.php:1977
+#@ mp
+msgid "Product Name"
+msgstr "Όνομα Προϊόντος"
+
+#: inc/custom.php:1978
+#@ mp
+msgid "Publish Date"
+msgstr "Ημερομηνία δημοσίευσης"
+
+#: inc/custom.php:1979
+#@ mp
+msgid "Product ID"
+msgstr "Αριθμός Προϊόντος"
+
+#: inc/custom.php:1980
+#@ mp
+msgid "Product Author"
+msgstr "Συγγραφέας Προϊόντος"
+
+#: inc/custom.php:1981
+#@ mp
+msgid "Number of Sales"
+msgstr "Αριθμός Πωλήσεων"
+
+#: inc/custom.php:1982
+#@ mp
+msgid "Product Price"
+msgstr "Τιμή Προϊόντος"
+
+#: inc/custom.php:1983
+#@ mp
+msgid "Random"
+msgstr "Τυχαίο"
+
+#: inc/custom.php:1985
+#@ mp
+msgid "Descending"
+msgstr "Φθίνουσα"
+
+#: inc/custom.php:1986
+#@ mp
+msgid "Ascending"
+msgstr "Αύξουσα"
+
+#: inc/custom.php:1989
+#@ mp
+msgid "Taxonomy Filter:"
+msgstr "Φίλτρο Ταξινόμησης:"
+
+#: inc/custom.php:1991
+#@ mp
+msgid "No Filter"
+msgstr "Χωρίς φιλτράρισμα"
+
+#: inc/custom.php:1992
+#@ mp
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: inc/custom.php:1993
+#@ mp
+msgid "Tag"
+msgstr "Ετικέτα"
+
+#: inc/custom.php:1995
+#@ mp
+msgid "Enter the Slug"
+msgstr "Πληκτρολογήστε τη διαδρομή"
+
+#: inc/custom.php:1998
+#@ mp
+msgid "Display Settings"
+msgstr "Ρυθμίσεις προβολής"
+
+#: inc/custom.php:2000
+#@ mp
+msgid "Show Thumbnail"
+msgstr "Προβολή εικονιδίου"
+
+#: inc/custom.php:2001
+#@ mp
+msgid "Thumbnail Size:"
+msgstr "Μέγεθος εικονιδίου"
+
+#: inc/custom.php:2004
+#@ mp
+msgid "Show Excerpt"
+msgstr "Προβολή αποσπάσματος"
+
+#: inc/custom.php:2006
+#@ mp
+msgid "Show Price"
+msgstr "Προβολή τιμής"
+
+#: inc/custom.php:2008
+#@ mp
+msgid "Show Buy Button"
+msgstr "Προβολή κουμπιού \\\"Αγορά\\\""
+
+#: inc/custom.php:2011
+#@ mp
+msgid "Only show on store pages"
+msgstr "Προβολή μόνο στις σελίδες καταστήματος"
+
+#: inc/template-tags.php:5
+#, php-format
+#@ basic
+msgid "Posted on %s at %s."
+msgstr "Καταχωρήθηκε στο %s τις %s."
+
+#: inc/template-tags.php:6
+#@ basic
+msgid "Written by"
+msgstr "Γραμμένο από"
+
+#: inc/widgets.php:6
+#@ basic
+msgid "Primary Sidebar"
+msgstr ""
+
+#: inc/widgets.php:14
+#@ basic
+msgid "Footer"
+msgstr ""
+
+#: inc/widgets.php:30
+#@ basic
+msgid "Use this widget to add a vCard"
+msgstr ""
+
+#: inc/widgets.php:31
+#@ basic
+msgid "Basic: vCard"
+msgstr ""
+
+#: inc/widgets.php:58
+#@ basic
+msgid "vCard"
+msgstr ""
+
+#: inc/widgets.php:124
+#@ basic
+msgid "Title (optional):"
+msgstr "Τίτλος (προαιρετικός):"
+
+#: inc/widgets.php:128
+#@ basic
+msgid "Street Address:"
+msgstr "Διεύθυνση:"
+
+#: inc/widgets.php:132
+#@ basic
+msgid "City/Locality:"
+msgstr "Πόλη:"
+
+#: inc/widgets.php:136
+#@ basic
+msgid "State/Region:"
+msgstr "Περιοχή:"
+
+#: inc/widgets.php:140
+#@ basic
+msgid "Zipcode/Postal Code:"
+msgstr "Τ.Κ.:"
+
+#: inc/widgets.php:144
+#@ basic
+msgid "Telephone:"
+msgstr "Τηλέφωνο:"
+
+#: index.php:7
+#@ basic
+msgid "Latest Posts"
+msgstr "Τελευταίες καταχωρήσεις"
+
+#: loop-single.php:14
+#@ basic
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: loop.php:5
+#@ basic
+msgid "Sorry, no results were found."
+msgstr "Λυπούμαστε, δε βρέθηκαν αποτελέσματα."
+
+#: loop.php:37
+#@ basic
+msgid "&larr; Older posts"
+msgstr "&larr; Παλαιότερες καταχωρήσεις"
+
+#: loop.php:38
+#@ basic
+msgid "Newer posts &rarr;"
+msgstr "Νεότερες καταχωρήσεις &rarr;"
+
+#: search.php:7
+#@ basic
+msgid "Search Results for"
+msgstr "Αποτελέσματα αναζήτησης για"
+
+#: searchform.php:2
+#@ basic
+msgid "Search for:"
+msgstr "Αναζήτηση για:"
+
+#: searchform.php:3
+#: searchform.php:4
+#@ basic
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: templates/header-top-navbar.php:13
+#@ basic
+msgid "Home"
+msgstr "Αρχική"
+
+#: templates/header-top-navbar.php:18
+#@ basic
+msgid "Store Administration"
+msgstr "Διαχείρηση Καταστήματος"
+
+#: templates/header-top-navbar.php:27
+#@ basic
+msgid "Create Product"
+msgstr "Δημιουργία προϊόντος"
+
+#: templates/header-top-navbar.php:29
+#@ basic
+msgid "Products"
+msgstr "Προϊόντα"
+
+#: templates/header-top-navbar.php:38
+#: templates/header-top-navbar.php:135
+#: templates/header-top-navbar.php:153
+#@ basic
+msgid "Orders"
+msgstr "Παραγγελίες"
+
+#: templates/header-top-navbar.php:49
+#@ basic
+msgid "Store Settings"
+msgstr "Ρυθμίσεις Καταστήματος"
+
+#: templates/header-top-navbar.php:51
+#: templates/header-top-navbar.php:112
+#@ basic
+msgid "Store Statistics"
+msgstr "Στατιστικά Καταστήματος"
+
+#: templates/header-top-navbar.php:55
+#@ basic
+msgid "Affiliates Program"
+msgstr "Πρόγραμμα συνεργατών"
+
+#: templates/header-top-navbar.php:64
+#@ basic
+msgid "Login/Register"
+msgstr "Είσοδος/Εγγραφή"
+
+#: templates/header-top-navbar.php:73
+#@ basic
+msgid "Profile"
+msgstr "Προφίλ"
+
+#: templates/header-top-navbar.php:87
+#: templates/header-top-navbar.php:91
+#@ basic
+msgid "My Cart"
+msgstr "Το καλάθι μου"
+
+#: templates/header-top-navbar.php:97
+#@ basic
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: templates/header-top-navbar.php:98
+#@ basic
+msgid "Continue to Checkout"
+msgstr "Ολοκλήρωση παραγγελίας"
+
+#: templates/header-top-navbar.php:131
+#@ basic
+msgid "This month"
+msgstr "Αυτό το μήνα"
+
+#: templates/header-top-navbar.php:139
+#: templates/header-top-navbar.php:157
+#@ basic
+msgid "Total Orders"
+msgstr "Σύνολο παραγγελιών"
+
+#: templates/header-top-navbar.php:143
+#: templates/header-top-navbar.php:161
+#@ basic
+msgid "Order Average"
+msgstr "Μέσος όρος παραγγελιών"
+
+#: templates/header-top-navbar.php:149
+#@ basic
+msgid "Last month"
+msgstr "Τελευταίος μήνας"
+
+#: templates/header-top-navbar.php:167
+#@ basic
+msgid "Total"
+msgstr "Σύνολο"
+
+#: templates/header-top-navbar.php:169
+#@ basic
+msgid "Total Products"
+msgstr "Σύνολο προϊόντων"
+
+#: templates/header-top-navbar.php:180
+#@ basic
+msgid "New Orders"
+msgstr "Νέες παραγγελίες"
+
+#: templates/header-top-navbar.php:190
+#@ basic
+msgid "Orders with status: Paid"
+msgstr "Εξοφλημένες παραγγελίες"
+
+#: templates/header-top-navbar.php:200
+#@ basic
+msgid "Orders with status: Sent"
+msgstr "Απεσταλμένες παραγγελίες"
+
+#: templates/header-top-navbar.php:210
+#@ basic
+msgid "Closed Orders"
+msgstr "Κλειστές παραγγελίες"
+
+#: templates/header-top-navbar.php:220
+#@ basic
+msgid "Total Number of Orders"
+msgstr "Συνολικός αριθμός παραγγελιών"
+
+#: templates/header-top-navbar.php:224
+#@ basic
+msgid "Orders Total"
+msgstr "Σύνολο παραγγελιών"
+
+#: templates/header-top-navbar.php:228
+#@ basic
+msgid "Average per Order"
+msgstr "Μέσος όρος ανά παραγγελία"
+
+#: templates/header-top-navbar.php:234
+#@ basic
+msgid "Close"
+msgstr "Κλείσιμο"
+
